@@ -31,8 +31,7 @@ A simple and efficient tool to automatically change your IP address using Tor ne
 ## Run without Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/techchipnet/ip-changer.git
-cd ip-changer
+https://github.com/Malengoall/Ip-Changer.git
 ```
 
 2. Make the installation script executable:
