@@ -49,7 +49,7 @@ sudo ./ip-changer.sh
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/techchipnet/ip-changer.git
+https://github.com/Malengoall/Ip-Changer.git
 cd ip-changer
 ```
 
